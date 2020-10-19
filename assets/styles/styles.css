@@ -3,7 +3,7 @@
 /*********** Global Styles********/
 
 body, html {
-		background-color: #292424;
+		background-color: #f1f6f9;
 }
 
 a {
@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-		background: #222222;
+		background: #14274e;
 }
 
 .img-circle {
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #about h2 {
-		color: #646464;
+		color: #394867;
 		font-size: 3.8em;
 		padding-bottom: 1em;
 }
@@ -90,12 +90,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #about h5 {
-		color: #8A8A8B;
+		color: #9ba4b4;
 }
 
 #about p {
 		margin-top: 1em;
-		color: #646464;
+		color: #394867;
 		font-family: "roboto";
 		font-weight: 300;
 }
